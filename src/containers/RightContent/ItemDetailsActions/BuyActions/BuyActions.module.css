@@ -1,0 +1,10 @@
+.BuyActions {
+    box-sizing: border-box;
+}
+
+.componentHolder{
+    padding: 20px;
+    text-align: center;
+    box-sizing: border-box;
+    width: 100%;
+}

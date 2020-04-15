@@ -1,0 +1,19 @@
+.BoxShadow{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+    box-shadow: 0 0px 2px rgba(0,0,0,0.175);
+    background-color: #fff;
+    height: 100%;
+}
+
+.BoxShadowMin{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+    margin-bottom: 18px;
+    box-shadow: 0 0px 2px rgba(0,0,0,0.175);
+    background-color: #fff;
+}

@@ -1,0 +1,28 @@
+.ComponentFlexCol {
+    display: flex;
+    align-items: center;
+    width: 100%
+}
+
+.UserImageContainer{
+    position: relative;
+    min-height: 1px;
+    padding-left: 0px;
+    padding-right: 0px;
+    width : 50px
+}
+
+.UserImage {
+    width: 100%; 
+    height: auto; 
+    min-width: 50px; 
+    min-height: 50px;
+    border-radius: 50%;
+}
+
+.OwnerName {
+    color: #70b597;
+    font-weight: bold;
+    box-sizing: border-box;
+    padding-left: 20px;
+}

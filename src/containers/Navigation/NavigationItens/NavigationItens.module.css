@@ -1,0 +1,25 @@
+.NavLi {
+    min-width: 70px;
+    height: 50px;
+    text-align: center;
+    padding: 0 5px;
+    float: left;
+    position: relative;
+    text-transform: uppercase;
+    box-sizing: border-box;
+}
+
+.NavLi a{
+    text-decoration: none;
+    color: grey;
+}
+
+.monetize_btn {
+    padding: 5px 20px;
+    margin: 0 10px;
+    background: #f96061!important;
+    border-radius: 5px;
+    font-weight: 700!important;
+    color: white!important;
+    margin: 5px;
+}

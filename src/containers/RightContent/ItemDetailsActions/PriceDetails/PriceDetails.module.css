@@ -1,0 +1,11 @@
+.PriceDetailsPanel {
+    border-top: 0;
+    position: relative;
+    width: 100%;
+    background-color: white;
+    font-size: 40px;
+    border-bottom: 1px dashed #E5ECDC;
+    text-align: center;
+    padding: 20px;
+    box-sizing: border-box;
+}

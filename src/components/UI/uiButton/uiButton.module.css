@@ -1,0 +1,27 @@
+
+.btn{
+    border-radius: 3px;
+    box-shadow: 0 0px 2px rgba(0,0,0,0.175);
+}
+
+.btn:hover{
+    box-shadow: 0 0px 2px rgba(0,0,0,0.7);
+}
+
+.warning{
+    color: white;
+    width: 100%;
+    padding: 10px;
+    background: #ff6161;
+    border: 1px solid #fa6161;
+    cursor: not-allowed
+}
+
+.success{
+    color: white;
+    width: 100%;
+    padding: 10px;
+    background: #13c522;
+    border: 1px solid #13c522;
+    cursor: pointer;
+}
